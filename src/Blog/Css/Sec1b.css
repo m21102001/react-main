@@ -1,0 +1,25 @@
+.sec1b{
+height: 100vh;
+    background-image: url('./1.jpg');
+}
+.the{
+    padding: 171px 0px 0px 0px;
+}
+.tt{
+    color: white;
+    font-size: 35px;
+    word-spacing: 5px;
+}
+.sec1b h1{
+    font-size: 5.5rem;
+    font-weight: bold;
+    font-family: inherit;
+    color: white;
+    word-spacing: -13px;
+}
+.sec1b :nth-child(3){
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: inherit;
+}

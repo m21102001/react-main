@@ -1,0 +1,32 @@
+.sec2b{
+    padding: 75px 50px;
+    background-color: #f7f7f7;
+}
+.qq{
+    padding-bottom: 41px;
+}
+.cono{
+    background-color: white;
+    height: 570px;
+}
+.img{
+    width: 250px;
+}
+.dont{
+    font-weight: bold;
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    color: black;
+    margin: 0 5px;
+}
+.sec2b .container .cono span{
+/* دى خره علشان مش عارف اعملها*/
+}
+.sit{
+    padding-top: 30px;
+    font-size: 17px;
+    font-family: cursive;
+    height: auto;
+
+}

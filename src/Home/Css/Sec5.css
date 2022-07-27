@@ -1,0 +1,165 @@
+
+.sec5{
+    height: 2000px;
+    width: 100%;
+    margin-top: 30px;
+    
+}
+.first1{
+    background-image: url('./12.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 620px;
+}
+/* .fir,.sec,.thr{
+    display: inline-block;
+
+    
+} */
+.fir{
+    margin-top : 100px;
+    height: 0;
+    width: 183px;
+    border: 1px solid rgb(43, 255, 43);
+}
+.sec{
+    width: 200px;
+    margin:83px 0 0 -250px;
+
+}.head{
+    letter-spacing: -5px;
+    font-size: 100px;
+    font-weight: 700 ;
+}
+.head2{
+    font-size: 99px;
+}
+.para{
+    font-weight: 400;
+    font-size: 20px;
+}
+.para2{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.thr{
+    width: 405px;
+    height: 120px;
+    background-color: green;
+    margin: auto 0;
+}
+.ez{
+    text-decoration: none;
+    position:relative ;
+    top:50px ;
+    left: 50px;
+    color: white !important;
+}
+.fa-chevron-right{
+    margin-left: 20px;
+
+}
+.second{
+    height: 2000px;
+    text-align: center ;
+    padding-top: 150px;
+    background-color: rgb(243, 243, 243);
+}
+.fa-ellipsis{
+    color: rgb(12, 241, 12);
+}
+.fk{
+    margin-top: 100px;
+    padding: 0 120px;
+}
+/* .allsame{
+    margin-top: 100px;
+} */
+.same{
+ 
+    margin: 0 20px;
+    height: 800px;
+    background-color: white;
+}
+.head3{
+    background-color: blueviolet;
+    margin: 10px;
+}
+/* .small{
+    width: 100px;
+    height: 80px;
+} */
+.span1{
+    /* margin-top: 50px; */
+    margin: auto;
+}
+.price{
+    color: blueviolet;
+    font-size: 65px;
+    font-weight: 700;
+}
+.fa-dollar-sign{
+    position: relative;
+    top: -30px;
+    left: 8px;
+    font-size: 20px;
+
+}
+.mon{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 15px;
+    color: gray;
+    margin-left: -10px;
+}
+.list1{
+   color: rgba(133, 133, 133, 0.801);
+   display: block !important;
+   padding: 0% !important;
+}
+.list{
+    padding: 0%;
+    margin: 0%;
+}
+.lli,.lli1,.lli2{
+    display: block !important;
+    color: rgba(133, 133, 133, 0.801);
+
+}
+.lli{
+margin-top: 140px;
+}
+.lli1{
+    margin-top: 86px;
+}
+.join{
+background-color: rgb(185, 250, 185);
+margin: 0 120px;
+height: 40px;
+padding-top: 7px;
+color: rgb(10, 179, 10);
+}
+.fk1,.fk2{
+    text-decoration: none;
+    
+}
+.join1{
+    margin: 0 120px;
+    padding-top: 7px;
+    height: 40px;
+    background-color: rgb(0, 161, 0);
+    color: white;
+}
+.join1:hover{
+    background-color: rgb(0, 102, 0);
+    transition: all ease 0.3s;
+
+}
+.join:hover{
+    color: white;
+    background-color: green;
+    transition: all ease 0.3s;
+}
+.arrow{
+    margin-left: 3px;
+}

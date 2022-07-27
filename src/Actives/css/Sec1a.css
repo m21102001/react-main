@@ -1,0 +1,34 @@
+.sec1a{
+    background-image: url('./1.jpg');
+    height: 100vh;
+}
+.shape{
+    font-size: 23px;
+    font-weight: 700;
+}
+.get{
+    color: gray;
+    margin: 0 9px;
+}
+.make{
+    font-size: 5.7rem;
+    font-weight: bold;
+}
+.active{
+    color: #39da6b;
+}
+.learn{
+    margin: 80px 0px;
+    color: #31ff00;
+    background-color: #44ff003f;
+    border: white;
+}
+.jo :hover{
+    color: white;
+    background-color: #43ff00;
+}
+.forward{
+    margin: 4px 13px;
+    font-size: 22px;
+    text-align: center;
+}

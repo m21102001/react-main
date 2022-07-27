@@ -1,0 +1,76 @@
+.sec3{
+    margin-top: 60px;
+}
+/* .fa-solid.fa-circle{
+    font-size: 60px;
+    color: green;
+    
+}
+.lol{
+    font-size: 40px;
+     color: black;
+     margin: 0 0 0 -49px !important;
+     
+     
+}
+.one{
+    text-align: center;
+} */
+.zz{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(247, 247, 247);
+}
+.vid{
+    background-image: url('./home.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+.info1,.info2{
+    /* padding: 0 40px; */
+    text-align: center;
+    
+    
+}
+.info1{
+    margin-top: -70px;
+}
+.info2{
+    margin-top: 30px;
+}
+.move{
+    margin: 0 10px;
+}
+.all1{
+    margin: auto;
+}
+.icon{
+    color: green;
+    font-size: 50px;
+}
+.play{
+    text-align: center;
+    margin: 50vh auto 0 18vh;
+    width: 120px;
+    border-radius:0;
+    background-color: rgb(30, 196, 72);
+
+}
+.btu{
+    padding-right: 15px;
+    
+}
+.play:hover{
+    background-color: rgb(16, 126, 43);
+
+}
+.ex{
+    text-align: center;
+    margin: -10vh auto 0 auto;
+
+}
+.more{
+    text-decoration: none ;
+    color: white !important ;
+}

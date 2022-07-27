@@ -1,0 +1,61 @@
+.sce6{
+    height: 1000vh;
+}
+.win{
+    height: 500px;
+    margin: 0 20px;
+}
+.damn{
+    padding: 0 120px;
+    margin-top: 50px;
+    padding-bottom: 188px;
+    background-color: #f3f3f3
+}
+.h3{
+    color: black;
+    font-size: 53px;
+    font-weight: bold;
+    letter-spacing: -3px;
+    opacity: .7;
+    text-align: start;
+    margin: 40px 0px;
+    padding: 40px 21px;
+}
+.join2{
+    margin-right: 260px;
+    padding: 6px;
+    height: 40px;
+    background-color: rgb(0, 161, 0);
+    color: white;
+    text-align: center;border-radius: 6px; 
+}
+.last{    padding-left: 27px;}
+.fk3{
+    color: #0d6efd;
+    text-decoration: none;
+    font-size: 17px;
+    letter-spacing: -1px;
+    text-align: center;
+}
+.list{
+    margin-top: 50px;
+    animation-duration: 1s;
+}
+.list2{
+    display: block;
+    
+}
+.list1 {
+    color: rgba(133, 133, 133, 1);
+    display: block !important;
+    padding: 0% !important;
+    font-size: 20px;
+}
+.fa-check{
+    font-size: 24px;
+    padding-right: 2px;
+    color: #27c920;
+    line-height: 0;
+    margin: 0px 6px;
+}
+

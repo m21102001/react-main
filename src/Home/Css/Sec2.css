@@ -1,0 +1,39 @@
+
+.half{
+    margin-top: 150px;
+    text-align: center;
+}
+.head{
+    font-size: 70px;
+    font-weight: 600;
+    
+}
+.gr{
+    color: rgba(0, 128, 0, 0.548);
+}
+.dot{
+    font-size: 20px;
+    color: green;
+    margin-top: 20px;
+}
+.up,.down{
+    font-weight: 600;
+    opacity: 0.5;
+    font-size: 16px;
+}
+.down{
+  padding-top: 10px;
+}
+.ll{
+    border-radius:0%;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgba(140, 240, 165, 0.644);
+    color: green;
+    height: 50px;
+    font-weight: 500;
+}
+.ll:hover{
+    background-color: green;
+    color: white;
+}

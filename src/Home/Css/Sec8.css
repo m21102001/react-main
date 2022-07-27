@@ -1,0 +1,40 @@
+.Sec8{
+    height: 600px;
+    text-align: center;
+}
+.opening{color: black;
+    font-size: 23px;
+    font-weight: 700;
+    word-spacing: -3px;
+    font-family: inherit;
+    padding: 28px 0px;
+}
+.mon{
+    text-align: center;
+    font-size: 17px;
+    padding-bottom: 30px;
+    padding-top: 60px;
+}
+.copy{
+    
+}
+.follow {
+    color: black;
+    font-size: 21px;
+    font-weight: 700;
+}
+.icon{
+    font-size: 25px;
+    color: #8973fd;
+}
+.fa-brands, .fab {
+    margin: 10px;
+}
+.av{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.image{
+    height: 50px;
+    margin-top: 20px;
+}

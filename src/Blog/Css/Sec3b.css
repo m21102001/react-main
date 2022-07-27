@@ -1,0 +1,30 @@
+.sec3b {
+  background-image: url("../Css/10.webp");
+  height: 900px;
+}
+.div{
+    text-align: center;
+}
+.today{
+  padding-top: 100px;
+  font-size: 5rem;
+  font-weight: bold;
+  color: white;
+}
+.rr{
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-top: 7px;
+    color: white;
+}
+.pt {
+  padding-top: 4rem !important;
+  width: 600px;
+}
+.ftth {
+  height: 55px;
+}
+.textarea {
+  font-size: 13px;
+  font-weight: bold;
+}
